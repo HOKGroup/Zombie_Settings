@@ -1,0 +1,115 @@
+{
+  "ShouldSerialize": true,
+  "StoreSettings": false,
+  "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
+  "CheckFrequency": "min1",
+  "SourceAssets": [],
+  "DestinationAssets": [
+    {
+      "IsSourceLocation": false,
+      "MaxHeight": 98,
+      "DirectoryPath": "%userpath%\\Desktop\\Folder1",
+      "Assets": [
+        {
+          "id": 7696018,
+          "name": "add_32x32.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696018"
+        },
+        {
+          "id": 7696019,
+          "name": "addHover.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696019"
+        },
+        {
+          "id": 7696017,
+          "name": "add.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696017"
+        },
+        {
+          "id": 7696399,
+          "name": "EngineIoClientDotNet.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696399"
+        },
+        {
+          "id": 7696020,
+          "name": "addHover_32x32.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696020"
+        }
+      ]
+    },
+    {
+      "IsSourceLocation": false,
+      "MaxHeight": 98,
+      "DirectoryPath": "%userpath%\\Desktop\\BetaFiles Testing",
+      "Assets": [
+        {
+          "id": 7775245,
+          "name": "Icons.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7775245"
+        },
+        {
+          "id": 7696401,
+          "name": "HOK.MissionControl.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696401"
+        },
+        {
+          "id": 7696400,
+          "name": "HOK.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696400"
+        }
+      ]
+    }
+  ],
+  "LatestRelease": {
+    "id": 11691078,
+    "tag_name": "2018.1.1.20",
+    "name": "latest release",
+    "body": "this is a newer release.",
+    "published_at": "2018-06-28T12:47:06Z",
+    "author": {
+      "login": "ksobon"
+    },
+    "assets": [
+      {
+        "id": 7696017,
+        "name": "add.png",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696017"
+      },
+      {
+        "id": 7696019,
+        "name": "addHover.png",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696019"
+      },
+      {
+        "id": 7696020,
+        "name": "addHover_32x32.png",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696020"
+      },
+      {
+        "id": 7696018,
+        "name": "add_32x32.png",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696018"
+      },
+      {
+        "id": 7696399,
+        "name": "EngineIoClientDotNet.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696399"
+      },
+      {
+        "id": 7696400,
+        "name": "HOK.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696400"
+      },
+      {
+        "id": 7696401,
+        "name": "HOK.MissionControl.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696401"
+      },
+      {
+        "id": 7775245,
+        "name": "Icons.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7775245"
+      }
+    ]
+  }
+}
