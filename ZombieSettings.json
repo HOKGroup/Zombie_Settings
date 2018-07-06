@@ -1,6 +1,6 @@
 {
   "ShouldSerialize": true,
-  "StoreSettings": true,
+  "StoreSettings": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
   "CheckFrequency": "min1",
   "SourceAssets": [],
