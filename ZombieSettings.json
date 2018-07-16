@@ -7,7 +7,7 @@
     {
       "IsSourceLocation": false,
       "MaxHeight": 98,
-      "DirectoryPath": "%userpath%\\Desktop\\Folder1",
+      "DirectoryPath": "%userpath%\\Desktop\\Folder2\\images",
       "Assets": [
         {
           "id": 7696017,
@@ -30,9 +30,36 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696020"
         },
         {
+          "id": 7867624,
+          "name": "dll_32x32.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867624"
+        },
+        {
+          "id": 7867625,
+          "name": "dllDisabled.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867625"
+        },
+        {
+          "id": 7867623,
+          "name": "dll.png",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867623"
+        }
+      ]
+    },
+    {
+      "IsSourceLocation": false,
+      "MaxHeight": 98,
+      "DirectoryPath": "%userpath%\\Desktop\\Folder2\\dlls",
+      "Assets": [
+        {
           "id": 7696399,
           "name": "EngineIoClientDotNet.dll",
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696399"
+        },
+        {
+          "id": 7696401,
+          "name": "HOK.MissionControl.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696401"
         },
         {
           "id": 7696400,
@@ -40,21 +67,34 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696400"
         },
         {
-          "id": 7696401,
-          "name": "HOK.MissionControl.Core.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7696401"
-        }
-      ]
-    },
-    {
-      "IsSourceLocation": false,
-      "MaxHeight": 98,
-      "DirectoryPath": "%userpath%\\Desktop\\Folder2",
-      "Assets": [
+          "id": 7867634,
+          "name": "RestSharp.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867634"
+        },
         {
-          "id": 7777340,
-          "name": "Icons.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7777340"
+          "id": 7867636,
+          "name": "WebSocket4Net.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867636"
+        },
+        {
+          "id": 7867635,
+          "name": "SocketIoClientDotNet.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867635"
+        },
+        {
+          "id": 7867633,
+          "name": "MongoDB.Bson.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867633"
+        },
+        {
+          "id": 7867632,
+          "name": "HOK.MissionControl.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867632"
+        },
+        {
+          "id": 7867629,
+          "name": "GalaSoft.MvvmLight.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867629"
         }
       ]
     }
