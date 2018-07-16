@@ -1,6 +1,5 @@
 {
-  "ShouldSerialize": true,
-  "StoreSettings": false,
+  "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
   "Frequency": "min1",
   "SourceAssets": [],
@@ -65,6 +64,7 @@
     "tag_name": "2018.1.1.21",
     "name": "latest release",
     "body": "this is a newer release.",
+    "prerelease": false,
     "published_at": "2018-06-28T12:47:06Z",
     "author": {
       "login": "ksobon"
