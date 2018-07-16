@@ -1,7 +1,7 @@
 {
   "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
-  "Frequency": "min15",
+  "Frequency": "min30",
   "SourceAssets": [],
   "DestinationAssets": [
     {
@@ -105,7 +105,7 @@
     "name": "Some pre-release!",
     "body": "This is some pre-release that I am testing. ",
     "prerelease": true,
-    "published_at": "2018-06-28T12:47:47Z",
+    "published_at": "2018-06-28T08:47:47-04:00",
     "author": {
       "login": "ksobon"
     },
