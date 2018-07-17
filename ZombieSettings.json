@@ -1,7 +1,7 @@
 {
   "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
-  "Frequency": "min30",
+  "Frequency": "min15",
   "SourceAssets": [],
   "DestinationAssets": [
     {
@@ -101,9 +101,9 @@
   ],
   "LatestRelease": {
     "id": 11691098,
-    "tag_name": "2018.1.1.0",
+    "tag_name": "2018.1.1.55",
     "name": "Some pre-release!",
-    "body": "This is some pre-release that I am testing. ",
+    "body": "This will likely fail. \r\nThis will likely fail. \r\nThis will likely fail. ",
     "prerelease": true,
     "published_at": "2018-06-28T08:47:47-04:00",
     "author": {
