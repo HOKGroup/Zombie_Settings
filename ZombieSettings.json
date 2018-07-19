@@ -95,22 +95,11 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7867629"
         }
       ]
-    },
-    {
-      "LocationType": "Trash",
-      "DirectoryPath": "%userpath%\\Desktop\\Folder2",
-      "Assets": [
-        {
-          "id": 7777340,
-          "name": "Icons.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/7777340"
-        }
-      ]
     }
   ],
   "LatestRelease": {
     "id": 11691098,
-    "tag_name": "2018.1.1.69",
+    "tag_name": "2018.1.1.71",
     "name": "Final release!",
     "body": "This will likely fail. \r\nThis will likely fail. \r\nThis will likely fail. \r\nMaybe it will not. Who knows? ",
     "prerelease": true,
