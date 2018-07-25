@@ -3,6 +3,45 @@
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
   "Frequency": "min1",
   "SourceAssets": [],
-  "DestinationAssets": [],
-  "LatestRelease": {}
+  "DestinationAssets": [
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018\\HOK-Addin.bundle\\Contents",
+      "Assets": [
+        {
+          "id": 8009907,
+          "name": "EntityFramework.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009907"
+        },
+        {
+          "id": 8009908,
+          "name": "EntityFramework.SqlServer.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
+        }
+      ]
+    }
+  ],
+  "LatestRelease": {
+    "id": 12105312,
+    "tag_name": "0.0.0.1",
+    "name": "0.0.0.1",
+    "body": "This is initial release! ",
+    "prerelease": true,
+    "published_at": "2018-07-25T17:02:54-04:00",
+    "author": {
+      "login": "ksobon"
+    },
+    "assets": [
+      {
+        "id": 8009907,
+        "name": "EntityFramework.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009907"
+      },
+      {
+        "id": 8009908,
+        "name": "EntityFramework.SqlServer.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
+      }
+    ]
+  }
 }
