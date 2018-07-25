@@ -19,38 +19,48 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
         },
         {
-          "id": 8010025,
+          "id": 8010054,
+          "name": "HOK.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010054"
+        },
+        {
+          "id": 8010055,
           "name": "HOK.MissionControl.Core.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010025"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010055"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 12105312,
-    "tag_name": "0.0.0.3",
-    "name": "0.0.0.3",
-    "body": "This is my 3rd update!",
+    "id": 12105424,
+    "tag_name": "0.0.0.4",
+    "name": "0.0.0.4",
+    "body": "Further updates!",
     "prerelease": true,
-    "published_at": "2018-07-25T17:02:54-04:00",
+    "published_at": "2018-07-25T17:10:45-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8009907,
+        "id": 8010002,
         "name": "EntityFramework.dll",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009907"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010002"
       },
       {
-        "id": 8009908,
+        "id": 8010003,
         "name": "EntityFramework.SqlServer.dll",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010003"
       },
       {
-        "id": 8010025,
+        "id": 8010054,
+        "name": "HOK.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010054"
+      },
+      {
+        "id": 8010055,
         "name": "HOK.MissionControl.Core.dll",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010025"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010055"
       }
     ]
   }
