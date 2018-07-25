@@ -6,7 +6,7 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\Folder1",
+      "DirectoryPath": "%userpath%\\Desktop\\Folder1",
       "Assets": [
         {
           "id": 7696017,
@@ -32,7 +32,7 @@
     },
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\Folder2",
+      "DirectoryPath": "%userpath%\\Desktop\\Folder2",
       "Assets": [
         {
           "id": 7696401,
@@ -79,7 +79,7 @@
     },
     {
       "LocationType": "Trash",
-      "DirectoryPath": "C:\\Folder2",
+      "DirectoryPath": "%userpath%\\Desktop\\Folder2",
       "Assets": [
         {
           "id": 7867636,
