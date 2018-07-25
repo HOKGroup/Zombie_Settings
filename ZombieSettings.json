@@ -22,25 +22,25 @@
     }
   ],
   "LatestRelease": {
-    "id": 12105312,
-    "tag_name": "0.0.0.1",
-    "name": "0.0.0.1",
-    "body": "This is initial release! ",
+    "id": 12105424,
+    "tag_name": "0.0.0.2",
+    "name": "0.0.0.2",
+    "body": "This is my first update! ",
     "prerelease": true,
-    "published_at": "2018-07-25T17:02:54-04:00",
+    "published_at": "2018-07-25T17:10:45-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8009907,
+        "id": 8010002,
         "name": "EntityFramework.dll",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009907"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010002"
       },
       {
-        "id": 8009908,
+        "id": 8010003,
         "name": "EntityFramework.SqlServer.dll",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010003"
       }
     ]
   }
