@@ -5,7 +5,7 @@
   "SourceAssets": [],
   "DestinationAssets": [
     {
-      "LocationType": "Folder",
+      "LocationType": "Trash",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
       "Assets": [
         {
@@ -14,23 +14,570 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8018708"
         }
       ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
+      "Assets": [
+        {
+          "id": 8020280,
+          "name": "HOK.FileOpeningMonitor.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020280"
+        },
+        {
+          "id": 8020277,
+          "name": "HOK.AddInManager.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020277"
+        },
+        {
+          "id": 8020279,
+          "name": "HOK.ElementMover.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020279"
+        },
+        {
+          "id": 8020281,
+          "name": "HOK.ModelReporting.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020281"
+        },
+        {
+          "id": 8020282,
+          "name": "HOK.Navigator.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020282"
+        },
+        {
+          "id": 8020284,
+          "name": "HOK.SheetDataManager.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020284"
+        },
+        {
+          "id": 8020278,
+          "name": "HOK.BetaToolsManager.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020278"
+        },
+        {
+          "id": 8020283,
+          "name": "HOK.RibbonTab.addin",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020283"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018\\HOK-Addin.bundle\\Contents",
+      "Assets": [
+        {
+          "id": 8020287,
+          "name": "EntityFramework.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020287"
+        },
+        {
+          "id": 8020289,
+          "name": "fmeserverapidotnet.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020289"
+        },
+        {
+          "id": 8020290,
+          "name": "GalaSoft.MvvmLight.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020290"
+        },
+        {
+          "id": 8020291,
+          "name": "HOK.AddInManager.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020291"
+        },
+        {
+          "id": 8020292,
+          "name": "HOK.Arrowhead.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020292"
+        },
+        {
+          "id": 8020301,
+          "name": "HOK.FileOnpeningMonitor.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020301"
+        },
+        {
+          "id": 8020302,
+          "name": "HOK.FinishCreator.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020302"
+        },
+        {
+          "id": 8020304,
+          "name": "HOK.LPDCalculator.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020304"
+        },
+        {
+          "id": 8020309,
+          "name": "HOK.RenameFamily.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020309"
+        },
+        {
+          "id": 8020310,
+          "name": "HOK.RibbonTab.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020310"
+        },
+        {
+          "id": 8020308,
+          "name": "HOK.ParameterTools.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020308"
+        },
+        {
+          "id": 8020311,
+          "name": "HOK.RoomElevation.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020311"
+        },
+        {
+          "id": 8020312,
+          "name": "HOK.RoomMeasure.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020312"
+        },
+        {
+          "id": 8020314,
+          "name": "HOK.RoomUpdater.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020314"
+        },
+        {
+          "id": 8020315,
+          "name": "HOK.SheetManager.AddIn.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020315"
+        },
+        {
+          "id": 8020316,
+          "name": "HOK.SheetManager.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020316"
+        },
+        {
+          "id": 8020317,
+          "name": "HOK.SheetManager.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020317"
+        },
+        {
+          "id": 8020319,
+          "name": "HOK.ViewAnalysis.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020319"
+        },
+        {
+          "id": 8020320,
+          "name": "HOK.ViewDepth.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020320"
+        },
+        {
+          "id": 8020321,
+          "name": "HOK.WorksetView.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020321"
+        },
+        {
+          "id": 8020322,
+          "name": "HOK.XYZLocator.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020322"
+        },
+        {
+          "id": 8020323,
+          "name": "ICSharpCode.SharpZipLib.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020323"
+        },
+        {
+          "id": 8020324,
+          "name": "Microsoft.Practices.ServiceLocation.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020324"
+        },
+        {
+          "id": 8020325,
+          "name": "MongoDB.Bson.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020325"
+        },
+        {
+          "id": 8020313,
+          "name": "HOK.RoomsToMass.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020313"
+        },
+        {
+          "id": 8020326,
+          "name": "Newtonsoft.Json.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020326"
+        },
+        {
+          "id": 8020327,
+          "name": "RestSharp.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020327"
+        },
+        {
+          "id": 8020307,
+          "name": "HOK.Navigator.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020307"
+        },
+        {
+          "id": 8020328,
+          "name": "System.Data.SQLite.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020328"
+        },
+        {
+          "id": 8020329,
+          "name": "System.Data.SQLite.EF6.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020329"
+        },
+        {
+          "id": 8020330,
+          "name": "System.Data.SQLite.Linq.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020330"
+        },
+        {
+          "id": 8020332,
+          "name": "System.Windows.Interactivity.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020332"
+        },
+        {
+          "id": 8020333,
+          "name": "Xceed.Wpf.Toolkit.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020333"
+        },
+        {
+          "id": 8020306,
+          "name": "HOK.ModelReporting.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020306"
+        },
+        {
+          "id": 8020305,
+          "name": "HOK.MissionControl.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020305"
+        },
+        {
+          "id": 8020303,
+          "name": "HOK.LevelManager.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020303"
+        },
+        {
+          "id": 8020299,
+          "name": "HOK.ElementMover.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020299"
+        },
+        {
+          "id": 8020300,
+          "name": "HOK.ElementTools.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020300"
+        },
+        {
+          "id": 8020351,
+          "name": "Contents.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020351"
+        },
+        {
+          "id": 8020294,
+          "name": "HOK.CameraDuplicator.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020294"
+        },
+        {
+          "id": 8020296,
+          "name": "HOK.Core.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020296"
+        },
+        {
+          "id": 8020298,
+          "name": "HOK.ElementFlatter.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020298"
+        },
+        {
+          "id": 8020297,
+          "name": "HOK.DoorRoom.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020297"
+        },
+        {
+          "id": 8020295,
+          "name": "HOK.CeilingHeight.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020295"
+        },
+        {
+          "id": 8020293,
+          "name": "HOK.BetaToolsManager.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020293"
+        },
+        {
+          "id": 8020288,
+          "name": "EntityFramework.SqlServer.dll",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020288"
+        }
+      ]
     }
   ],
   "LatestRelease": {
-    "id": 12117836,
-    "tag_name": "0.0.0.11",
-    "name": "0.0.0.11",
-    "body": "real scenario",
+    "id": 12118798,
+    "tag_name": "0.0.0.14",
+    "name": "0.0.0.14",
+    "body": "This might be better! ",
     "prerelease": true,
-    "published_at": "2018-07-26T10:25:14-04:00",
+    "published_at": "2018-07-26T11:11:14-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8019772,
-        "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8019772"
+        "id": 8020351,
+        "name": "Contents.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020351"
+      },
+      {
+        "id": 8020287,
+        "name": "EntityFramework.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020287"
+      },
+      {
+        "id": 8020288,
+        "name": "EntityFramework.SqlServer.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020288"
+      },
+      {
+        "id": 8020289,
+        "name": "fmeserverapidotnet.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020289"
+      },
+      {
+        "id": 8020290,
+        "name": "GalaSoft.MvvmLight.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020290"
+      },
+      {
+        "id": 8020277,
+        "name": "HOK.AddInManager.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020277"
+      },
+      {
+        "id": 8020291,
+        "name": "HOK.AddInManager.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020291"
+      },
+      {
+        "id": 8020292,
+        "name": "HOK.Arrowhead.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020292"
+      },
+      {
+        "id": 8020278,
+        "name": "HOK.BetaToolsManager.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020278"
+      },
+      {
+        "id": 8020293,
+        "name": "HOK.BetaToolsManager.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020293"
+      },
+      {
+        "id": 8020294,
+        "name": "HOK.CameraDuplicator.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020294"
+      },
+      {
+        "id": 8020295,
+        "name": "HOK.CeilingHeight.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020295"
+      },
+      {
+        "id": 8020296,
+        "name": "HOK.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020296"
+      },
+      {
+        "id": 8020297,
+        "name": "HOK.DoorRoom.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020297"
+      },
+      {
+        "id": 8020298,
+        "name": "HOK.ElementFlatter.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020298"
+      },
+      {
+        "id": 8020279,
+        "name": "HOK.ElementMover.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020279"
+      },
+      {
+        "id": 8020299,
+        "name": "HOK.ElementMover.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020299"
+      },
+      {
+        "id": 8020300,
+        "name": "HOK.ElementTools.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020300"
+      },
+      {
+        "id": 8020301,
+        "name": "HOK.FileOnpeningMonitor.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020301"
+      },
+      {
+        "id": 8020280,
+        "name": "HOK.FileOpeningMonitor.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020280"
+      },
+      {
+        "id": 8020302,
+        "name": "HOK.FinishCreator.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020302"
+      },
+      {
+        "id": 8020303,
+        "name": "HOK.LevelManager.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020303"
+      },
+      {
+        "id": 8020304,
+        "name": "HOK.LPDCalculator.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020304"
+      },
+      {
+        "id": 8020305,
+        "name": "HOK.MissionControl.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020305"
+      },
+      {
+        "id": 8020281,
+        "name": "HOK.ModelReporting.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020281"
+      },
+      {
+        "id": 8020306,
+        "name": "HOK.ModelReporting.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020306"
+      },
+      {
+        "id": 8020282,
+        "name": "HOK.Navigator.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020282"
+      },
+      {
+        "id": 8020307,
+        "name": "HOK.Navigator.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020307"
+      },
+      {
+        "id": 8020308,
+        "name": "HOK.ParameterTools.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020308"
+      },
+      {
+        "id": 8020309,
+        "name": "HOK.RenameFamily.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020309"
+      },
+      {
+        "id": 8020283,
+        "name": "HOK.RibbonTab.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020283"
+      },
+      {
+        "id": 8020310,
+        "name": "HOK.RibbonTab.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020310"
+      },
+      {
+        "id": 8020311,
+        "name": "HOK.RoomElevation.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020311"
+      },
+      {
+        "id": 8020312,
+        "name": "HOK.RoomMeasure.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020312"
+      },
+      {
+        "id": 8020313,
+        "name": "HOK.RoomsToMass.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020313"
+      },
+      {
+        "id": 8020314,
+        "name": "HOK.RoomUpdater.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020314"
+      },
+      {
+        "id": 8020284,
+        "name": "HOK.SheetDataManager.addin",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020284"
+      },
+      {
+        "id": 8020315,
+        "name": "HOK.SheetManager.AddIn.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020315"
+      },
+      {
+        "id": 8020316,
+        "name": "HOK.SheetManager.Core.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020316"
+      },
+      {
+        "id": 8020317,
+        "name": "HOK.SheetManager.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020317"
+      },
+      {
+        "id": 8020319,
+        "name": "HOK.ViewAnalysis.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020319"
+      },
+      {
+        "id": 8020320,
+        "name": "HOK.ViewDepth.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020320"
+      },
+      {
+        "id": 8020321,
+        "name": "HOK.WorksetView.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020321"
+      },
+      {
+        "id": 8020322,
+        "name": "HOK.XYZLocator.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020322"
+      },
+      {
+        "id": 8020323,
+        "name": "ICSharpCode.SharpZipLib.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020323"
+      },
+      {
+        "id": 8020324,
+        "name": "Microsoft.Practices.ServiceLocation.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020324"
+      },
+      {
+        "id": 8020325,
+        "name": "MongoDB.Bson.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020325"
+      },
+      {
+        "id": 8020326,
+        "name": "Newtonsoft.Json.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020326"
+      },
+      {
+        "id": 8020327,
+        "name": "RestSharp.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020327"
+      },
+      {
+        "id": 8020328,
+        "name": "System.Data.SQLite.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020328"
+      },
+      {
+        "id": 8020329,
+        "name": "System.Data.SQLite.EF6.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020329"
+      },
+      {
+        "id": 8020330,
+        "name": "System.Data.SQLite.Linq.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020330"
+      },
+      {
+        "id": 8020332,
+        "name": "System.Windows.Interactivity.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020332"
+      },
+      {
+        "id": 8020333,
+        "name": "Xceed.Wpf.Toolkit.dll",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8020333"
       }
     ]
   }
