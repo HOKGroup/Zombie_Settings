@@ -28,25 +28,25 @@
     }
   ],
   "LatestRelease": {
-    "id": 12122804,
-    "tag_name": "0.0.0.2",
-    "name": "starting over",
-    "body": "let's do this again!",
+    "id": 12123270,
+    "tag_name": "0.0.0.3",
+    "name": "testing manual delete",
+    "body": "delete",
     "prerelease": true,
-    "published_at": "2018-07-26T14:43:29-04:00",
+    "published_at": "2018-07-26T15:07:23-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8023270,
+        "id": 8023603,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023270"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023603"
       },
       {
-        "id": 8023273,
+        "id": 8023601,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023601"
       }
     ]
   }
