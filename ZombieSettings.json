@@ -25,28 +25,44 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
         }
       ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2016",
+      "Assets": [
+        {
+          "id": 8023979,
+          "name": "2016.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
+        }
+      ]
     }
   ],
   "LatestRelease": {
-    "id": 12123599,
-    "tag_name": "0.0.0.5",
-    "name": "adding them back",
-    "body": "come back! ",
+    "id": 12123669,
+    "tag_name": "0.0.0.6",
+    "name": "testing another update",
+    "body": "let's see if this works",
     "prerelease": true,
-    "published_at": "2018-07-26T15:26:15-04:00",
+    "published_at": "2018-07-26T15:29:31-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8023871,
-        "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023871"
+        "id": 8023979,
+        "name": "2016.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
       },
       {
-        "id": 8023872,
+        "id": 8023976,
+        "name": "2017.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023976"
+      },
+      {
+        "id": 8023975,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023872"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023975"
       }
     ]
   }
