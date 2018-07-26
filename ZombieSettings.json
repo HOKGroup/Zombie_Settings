@@ -5,37 +5,6 @@
   "SourceAssets": [],
   "DestinationAssets": [
     {
-      "LocationType": "Trash",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018\\HOK-Addin.bundle\\Contents",
-      "Assets": [
-        {
-          "id": 8009907,
-          "name": "EntityFramework.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009907"
-        },
-        {
-          "id": 8009908,
-          "name": "EntityFramework.SqlServer.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8009908"
-        },
-        {
-          "id": 8010959,
-          "name": "HOK.Navigator.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010959"
-        },
-        {
-          "id": 8010956,
-          "name": "HOK.MissionControl.Core.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010956"
-        },
-        {
-          "id": 8010955,
-          "name": "HOK.Core.dll",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8010955"
-        }
-      ]
-    },
-    {
       "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
       "Assets": [
@@ -48,20 +17,20 @@
     }
   ],
   "LatestRelease": {
-    "id": 12105424,
-    "tag_name": "0.0.0.10",
-    "name": "0.0.0.10",
-    "body": "Further updates!",
+    "id": 12117836,
+    "tag_name": "0.0.0.11",
+    "name": "0.0.0.11",
+    "body": "real scenario",
     "prerelease": true,
-    "published_at": "2018-07-25T17:10:45-04:00",
+    "published_at": "2018-07-26T10:25:14-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8018708,
+        "id": 8019772,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8018708"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8019772"
       }
     ]
   }
