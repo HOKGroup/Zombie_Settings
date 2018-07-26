@@ -25,7 +25,18 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
         }
       ]
-    }
+    },
+    {
+      "LocationType": "Trash",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017",
+      "Assets": [
+        {
+          "id": -1,
+          "name": "HOK.ElementMover.addin",
+          "url": ""
+        }
+      ]
+    },
   ],
   "LatestRelease": {
     "id": 12123270,
