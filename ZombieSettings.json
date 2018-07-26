@@ -28,11 +28,11 @@
     },
     {
       "LocationType": "Trash",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017\\HOK-Addin.bundle\\Contents",
       "Assets": [
         {
           "id": -1,
-          "name": "HOK.ElementMover.addin",
+          "name": "HOK.Core.dll",
           "url": ""
         }
       ]
