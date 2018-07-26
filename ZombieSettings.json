@@ -5,17 +5,6 @@
   "SourceAssets": [],
   "DestinationAssets": [
     {
-      "LocationType": "Trash",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
-      "Assets": [
-        {
-          "id": 8018708,
-          "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8018708"
-        }
-      ]
-    },
-    {
       "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
       "Assets": [
