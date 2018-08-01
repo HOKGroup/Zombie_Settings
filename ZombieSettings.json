@@ -1,7 +1,7 @@
 {
   "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
-  "Frequency": "min15",
+  "Frequency": "h1",
   "SourceAssets": [],
   "DestinationAssets": [
     {
@@ -36,33 +36,49 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
         }
       ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
+      "Assets": [
+        {
+          "id": 8092802,
+          "name": "2019.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
+        }
+      ]
     }
   ],
   "LatestRelease": {
-    "id": 12123669,
-    "tag_name": "0.0.0.6",
-    "name": "testing another update",
-    "body": "let's see if this works",
+    "id": 12207783,
+    "tag_name": "0.0.0.9",
+    "name": "Upgrade to 2019!",
+    "body": "This release adds new files to 2019 folder.\r\n\r\nNo new addins. ",
     "prerelease": true,
-    "published_at": "2018-07-26T15:29:31-04:00",
+    "published_at": "2018-08-01T12:17:45-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8023979,
+        "id": 8092799,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092799"
       },
       {
-        "id": 8023976,
+        "id": 8092800,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023976"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092800"
       },
       {
-        "id": 8023975,
+        "id": 8092801,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023975"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092801"
+      },
+      {
+        "id": 8092802,
+        "name": "2019.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
       }
     ]
   }
