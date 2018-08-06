@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12207783,
-    "tag_name": "0.0.0.9",
-    "name": "Upgrade to 2019!",
-    "body": "This release adds new files to 2019 folder.\r\n\r\nNo new addins. ",
+    "id": 12277519,
+    "tag_name": "0.1.0.0",
+    "name": "Mission Control goes 1.0",
+    "body": "This should be fun! ",
     "prerelease": true,
-    "published_at": "2018-08-01T12:17:45-04:00",
+    "published_at": "2018-08-06T16:22:34-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8092799,
+        "id": 8148007,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092799"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148007"
       },
       {
-        "id": 8092800,
+        "id": 8148004,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092800"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148004"
       },
       {
-        "id": 8092801,
+        "id": 8148002,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092801"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148002"
       },
       {
-        "id": 8092802,
+        "id": 8148001,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148001"
       }
     ]
   }
