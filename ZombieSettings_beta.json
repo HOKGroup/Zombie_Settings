@@ -1,0 +1,85 @@
+{
+  "ShouldSerialize": false,
+  "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
+  "Frequency": "h1",
+  "SourceAssets": [],
+  "DestinationAssets": [
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017",
+      "Assets": [
+        {
+          "id": 8023270,
+          "name": "2017.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023270"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
+      "Assets": [
+        {
+          "id": 8023273,
+          "name": "2018.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2016",
+      "Assets": [
+        {
+          "id": 8023979,
+          "name": "2016.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
+      "Assets": [
+        {
+          "id": 8092802,
+          "name": "2019.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
+        }
+      ]
+    }
+  ],
+  "LatestRelease": {
+    "id": 12277519,
+    "tag_name": "0.1.0.0",
+    "name": "Mission Control goes 1.0",
+    "body": "This should be fun! ",
+    "prerelease": true,
+    "published_at": "2018-08-06T16:22:34-04:00",
+    "author": {
+      "login": "ksobon"
+    },
+    "assets": [
+      {
+        "id": 8148007,
+        "name": "2016.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148007"
+      },
+      {
+        "id": 8148004,
+        "name": "2017.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148004"
+      },
+      {
+        "id": 8148002,
+        "name": "2018.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148002"
+      },
+      {
+        "id": 8148001,
+        "name": "2019.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148001"
+      }
+    ]
+  }
+}
