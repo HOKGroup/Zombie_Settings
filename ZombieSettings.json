@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12597607,
-    "tag_name": "0.1.0.1",
-    "name": "Zombie, Addins and some other stuff!",
-    "body": "Updated the schema for Addins info, and got rid of bunch of stuff there. ",
+    "id": 12642755,
+    "tag_name": "0.1.0.2",
+    "name": "2019.1.0.2",
+    "body": "* CSV file for Revit 2019 cc: @dbaldacchino\r\n* Move Backup tool gets moved to full and out of BETA\r\n* Added File Path publishing to MC to aid with Configuration creation",
     "prerelease": true,
-    "published_at": "2018-08-27T15:17:21-04:00",
+    "published_at": "2018-08-29T17:48:06-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8414801,
+        "id": 8510910,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8414801"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510910"
       },
       {
-        "id": 8414802,
+        "id": 8510906,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8414802"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510906"
       },
       {
-        "id": 8414803,
+        "id": 8510905,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8414803"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510905"
       },
       {
-        "id": 8414804,
+        "id": 8510904,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8414804"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510904"
       }
     ]
   }
