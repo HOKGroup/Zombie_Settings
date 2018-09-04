@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12277519,
-    "tag_name": "0.1.0.0",
-    "name": "Mission Control goes 1.0",
-    "body": "This should be fun! ",
+    "id": 12642755,
+    "tag_name": "0.1.0.2",
+    "name": "2019.1.0.2",
+    "body": "* CSV file for Revit 2019 cc: @dbaldacchino\r\n* Move Backup tool gets moved to full and out of BETA\r\n* Added File Path publishing to MC to aid with Configuration creation",
     "prerelease": true,
-    "published_at": "2018-08-06T16:22:34-04:00",
+    "published_at": "2018-08-29T17:48:06-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8148007,
+        "id": 8510910,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148007"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510910"
       },
       {
-        "id": 8148004,
+        "id": 8510906,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148004"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510906"
       },
       {
-        "id": 8148002,
+        "id": 8510905,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148002"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510905"
       },
       {
-        "id": 8148001,
+        "id": 8510904,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8148001"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510904"
       }
     ]
   }
