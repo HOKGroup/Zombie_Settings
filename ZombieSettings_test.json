@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12642755,
-    "tag_name": "0.1.0.2",
-    "name": "2019.1.0.2",
-    "body": "* CSV file for Revit 2019 cc: @dbaldacchino\r\n* Move Backup tool gets moved to full and out of BETA\r\n* Added File Path publishing to MC to aid with Configuration creation",
+    "id": 12839041,
+    "tag_name": "0.1.0.3",
+    "name": "Update to Groups Manager",
+    "body": "Fixes to Groups Manager. \r\nFix to MC and how model size is calculated. \r\nOther small fixes. ",
     "prerelease": true,
-    "published_at": "2018-08-29T17:48:06-04:00",
+    "published_at": "2018-09-11T10:27:18-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8510910,
+        "id": 8626972,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510910"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626972"
       },
       {
-        "id": 8510906,
+        "id": 8626973,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510906"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626973"
       },
       {
-        "id": 8510905,
+        "id": 8626974,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510905"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626974"
       },
       {
-        "id": 8510904,
+        "id": 8626979,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8510904"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626979"
       }
     ]
   }
