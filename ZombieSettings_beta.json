@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12839041,
-    "tag_name": "0.1.0.3",
-    "name": "Update to Groups Manager",
-    "body": "Fixes to Groups Manager. \r\nFix to MC and how model size is calculated. \r\nOther small fixes. ",
+    "id": 12889665,
+    "tag_name": "0.1.0.4",
+    "name": "MC schema changed!",
+    "body": "There were some major changes to how we store model open/synch and model size data. Same with the Worksets stuff. New schema was needed for better queries that we can now do with that data mostly around project activity stuff. \r\n\r\nAlso, added new schema for user/machine info. This was needed for Zombie since there is no way for me to act on these logs, if I don't know whom to talk to. \r\n\r\nOther small bug fixes. ",
     "prerelease": true,
-    "published_at": "2018-09-11T10:27:18-04:00",
+    "published_at": "2018-09-13T16:12:47-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8626972,
+        "id": 8663381,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626972"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663381"
       },
       {
-        "id": 8626973,
+        "id": 8663380,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626973"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663380"
       },
       {
-        "id": 8626974,
+        "id": 8663379,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626974"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663379"
       },
       {
-        "id": 8626979,
+        "id": 8663375,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8626979"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663375"
       }
     ]
   }
