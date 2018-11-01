@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 12889665,
-    "tag_name": "0.1.0.4",
-    "name": "MC schema changed!",
-    "body": "There were some major changes to how we store model open/synch and model size data. Same with the Worksets stuff. New schema was needed for better queries that we can now do with that data mostly around project activity stuff. \r\n\r\nAlso, added new schema for user/machine info. This was needed for Zombie since there is no way for me to act on these logs, if I don't know whom to talk to. \r\n\r\nOther small bug fixes. ",
+    "id": 13741782,
+    "tag_name": "0.0.0.10",
+    "name": "File Path fixes and changes. ",
+    "body": "* <b>Fixed:</b> File Path issue with Family Publish that was preventing it from being able to connect to a server.  \r\n* <b>Improved:</b> File Path posting routine. It will now exclude detached and not workshared file paths. This should narrow down the amount of files that are being posted to the database.  \r\n* <b>Improved:</b> Feedback Tool now works off of a Settings file, that allows us to open this tool up to the public without compromising our passwords and tokens. ",
     "prerelease": true,
-    "published_at": "2018-09-13T16:12:47-04:00",
+    "published_at": "2018-10-30T16:42:36-04:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 8663381,
+        "id": 9508664,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663381"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508664"
       },
       {
-        "id": 8663380,
+        "id": 9508666,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663380"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508666"
       },
       {
-        "id": 8663379,
+        "id": 9508667,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663379"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508667"
       },
       {
-        "id": 8663375,
+        "id": 9508668,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8663375"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508668"
       }
     ]
   }
