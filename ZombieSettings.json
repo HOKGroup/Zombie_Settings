@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 13741782,
-    "tag_name": "0.0.0.10",
-    "name": "File Path fixes and changes. ",
-    "body": "* <b>Fixed:</b> File Path issue with Family Publish that was preventing it from being able to connect to a server.  \r\n* <b>Improved:</b> File Path posting routine. It will now exclude detached and not workshared file paths. This should narrow down the amount of files that are being posted to the database.  \r\n* <b>Improved:</b> Feedback Tool now works off of a Settings file, that allows us to open this tool up to the public without compromising our passwords and tokens. ",
+    "id": 13884395,
+    "tag_name": "0.1.0.7",
+    "name": "Open Source prep, View Mover update",
+    "body": "<b>Improved:</b> Removed any references to GitHub tokens, passwords and login info for FME, GitHub releases etc. This was done in preparation for Open Sourcing of the Revit addins. \r\n<b>Fixed:</b> View Mover tool would skip a model that was currently open if it happened to have the same Id stored in the Schema. Even if the two models were not the same, it was possible that the Model Id was stored accidentally. One such instance would be if one model was created from another via \"save as\" and it already had a Schema stored internally. This change checks the model file path as additional comparison method, and updates the Model Id if needed.\r\n<b>Improved:</b> BCF Manager was updated to version 2018, 2019. It will be available on the Beta Tab.   \r\n ",
     "prerelease": true,
-    "published_at": "2018-10-30T16:42:36-04:00",
+    "published_at": "2018-11-07T15:08:16-05:00",
     "author": {
       "login": "ksobon"
     },
     "assets": [
       {
-        "id": 9508664,
+        "id": 9657292,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508664"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9657292"
       },
       {
-        "id": 9508666,
+        "id": 9657290,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508666"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9657290"
       },
       {
-        "id": 9508667,
+        "id": 9657288,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508667"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9657288"
       },
       {
-        "id": 9508668,
+        "id": 9657285,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9508668"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9657285"
       }
     ]
   }
