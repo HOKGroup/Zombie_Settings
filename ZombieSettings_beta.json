@@ -6,79 +6,79 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2016",
       "Assets": [
         {
-          "id": 8023270,
-          "name": "2017.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023270"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
-      "Assets": [
-        {
-          "id": 8023273,
-          "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2016",
-      "Assets": [
-        {
-          "id": 8023979,
+          "id": 12801440,
           "name": "2016.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801440"
         }
       ]
     },
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2017",
       "Assets": [
         {
-          "id": 8092802,
+          "id": 12801441,
+          "name": "2017.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801441"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
+      "Assets": [
+        {
+          "id": 12801442,
+          "name": "2018.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801442"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
+      "Assets": [
+        {
+          "id": 12801443,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801443"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 13955496,
-    "tag_name": "0.1.0.8",
-    "name": "File Paths now with more info...",
-    "body": "<b>Improved:</b> Added Revit file version, file location, project name and number. That extra info will allow us to filter files a little better when creating configurations. ",
+    "id": 17501235,
+    "tag_name": "0.1.0.9",
+    "name": "Open Source, Clean-up & Fix Expired Certificate",
+    "body": "**New:** HOK-Revit-Addins Open-Sourced: Creation of LICENSE file\r\n**Improved:** Breaking out HOK.Feedback to separate DLL to prevent circular dependency. Clean-up: Remove git tracking of dependencies + packages in repo\r\n**Fixed:** Expired certificate from last release causing multiple prompts to \"Load Always/Load Once/Never Load.\" New certificate valid through May 2020",
     "prerelease": true,
-    "published_at": "2018-11-12T10:52:12-05:00",
+    "published_at": "2019-05-21T16:58:36-05:00",
     "author": {
-      "login": "ksobon"
+      "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 9765233,
+        "id": 12801571,
         "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765233"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801571"
       },
       {
-        "id": 9765234,
+        "id": 12801572,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765234"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801572"
       },
       {
-        "id": 9765235,
+        "id": 12801569,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765235"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801569"
       },
       {
-        "id": 9765237,
+        "id": 12801570,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765237"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801570"
       }
     ]
   }
