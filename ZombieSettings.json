@@ -6,17 +6,6 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2016",
-      "Assets": [
-        {
-          "id": 12801571,
-          "name": "2016.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801571"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2017",
       "Assets": [
         {
@@ -47,38 +36,60 @@
           "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359479"
         }
       ]
+    },
+    {
+      "LocationType": "Trash",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2016",
+      "Assets": [
+        {
+          "id": 12801571,
+          "name": "2016.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801571"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
+      "Assets": [
+        {
+          "id": 14998002,
+          "name": "2020.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998002"
+        }
+      ]
     }
   ],
   "LatestRelease": {
-    "id": 17501235,
-    "tag_name": "0.1.0.9",
-    "name": "Open Source, Clean-up & Fix Expired Certificate",
-    "body": "**New:** HOK-Revit-Addins Open-Sourced: Creation of LICENSE file\r\n**Improved:** Breaking out HOK.Feedback to separate DLL to prevent circular dependency. Clean-up: Remove git tracking of dependencies + packages in repo\r\n**Fixed:** Expired certificate from last release causing multiple prompts to \"Load Always/Load Once/Never Load.\" New certificate valid through May 2020",
+    "id": 20080324,
+    "tag_name": "0.1.0.10",
+    "name": "Revit 2020, Clarity model size fixes, v2 Door Fixes, code signing",
+    "body": "## Description\r\nThis release covers these topics:\r\n* #181  Allows users to create Clarity credentials and server names in `Settings.json` to properly get model size information for projects hosted on Revit Server through IMAGINiT Clarity\r\n* #182 For the Model Reporting addin, adds a fall-back method to check for using Revit's built-in project number against a project number regular expression if one is not found in the file path. This stems from projects hosted on BIM360 in which we don't have control over the file structure but still want to be able to log Revit model metrics\r\n* #170 Enables code signing in all projects, referencing a `codeSigning.bat` file in the `_postBuild` folder\r\n* #186 Adds ability to automatically build all active add-ins via Azure Pipelines. In addition to building the solutions, code-signing is done using secure files and variables, and files are copied to a properly formatted artifacts zip file that is able to be immediately deployed after testing.\r\n* #179 Updates the California Door checker to include both v1 and v2 door parameter names\r\n* Adds configurations for Revit 2020 to all used projects and solutions\r\n\r\n",
     "prerelease": true,
-    "published_at": "2019-05-21T16:58:36-05:00",
+    "published_at": "2019-09-18T16:26:52-05:00",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 12801571,
-        "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/12801571"
-      },
-      {
-        "id": 14359480,
+        "id": 14998003,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359480"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998003"
       },
       {
-        "id": 14359478,
+        "id": 14998000,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359478"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998000"
       },
       {
-        "id": 14359479,
+        "id": 14998001,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359479"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998001"
+      },
+      {
+        "id": 14998002,
+        "name": "2020.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998002"
       }
     ]
   }
