@@ -6,79 +6,79 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2017",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2017",
       "Assets": [
         {
-          "id": 8023270,
+          "id": 14359480,
           "name": "2017.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023270"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359480"
         }
       ]
     },
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2018",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
       "Assets": [
         {
-          "id": 8023273,
+          "id": 14359478,
           "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023273"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359478"
         }
       ]
     },
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2016",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 8023979,
-          "name": "2016.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8023979"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
-      "Assets": [
-        {
-          "id": 8092802,
+          "id": 14359479,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/8092802"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14359479"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
+      "Assets": [
+        {
+          "id": 14998002,
+          "name": "2020.zip",
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998002"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 13955496,
-    "tag_name": "0.1.0.8",
-    "name": "File Paths now with more info...",
-    "body": "<b>Improved:</b> Added Revit file version, file location, project name and number. That extra info will allow us to filter files a little better when creating configurations. ",
-    "prerelease": false,
-    "published_at": "2018-11-12T10:52:12-05:00",
+    "id": 20080324,
+    "tag_name": "0.1.0.10",
+    "name": "Revit 2020, Clarity model size fixes, v2 Door Fixes, code signing",
+    "body": "## Description\r\nThis release covers these topics:\r\n* #181  Allows users to create Clarity credentials and server names in `Settings.json` to properly get model size information for projects hosted on Revit Server through IMAGINiT Clarity\r\n* #182 For the Model Reporting addin, adds a fall-back method to check for using Revit's built-in project number against a project number regular expression if one is not found in the file path. This stems from projects hosted on BIM360 in which we don't have control over the file structure but still want to be able to log Revit model metrics\r\n* #170 Enables code signing in all projects, referencing a `codeSigning.bat` file in the `_postBuild` folder\r\n* #186 Adds ability to automatically build all active add-ins via Azure Pipelines. In addition to building the solutions, code-signing is done using secure files and variables, and files are copied to a properly formatted artifacts zip file that is able to be immediately deployed after testing.\r\n* #179 Updates the California Door checker to include both v1 and v2 door parameter names\r\n* Adds configurations for Revit 2020 to all used projects and solutions\r\n\r\n",
+    "prerelease": true,
+    "published_at": "2019-09-18T16:26:52-05:00",
     "author": {
-      "login": "ksobon"
+      "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 9765233,
-        "name": "2016.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765233"
-      },
-      {
-        "id": 9765234,
+        "id": 14998003,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765234"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998003"
       },
       {
-        "id": 9765235,
+        "id": 14998000,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765235"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998000"
       },
       {
-        "id": 9765237,
+        "id": 14998001,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/9765237"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998001"
+      },
+      {
+        "id": 14998002,
+        "name": "2020.zip",
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/14998002"
       }
     ]
   }
