@@ -1,5 +1,5 @@
 {
-  "ShouldSerialize": true,
+  "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
   "Frequency": "h2",
   "SourceAssets": [],
@@ -50,35 +50,35 @@
     }
   ],
   "LatestRelease": {
-    "id": 20431554,
-    "tag_name": "0.1.0.11",
-    "name": "Update CSV Files",
-    "body": "Updated CSV files for Revit 2017-2020 cc: @dbaldacchino",
-    "prerelease": false,
-    "published_at": "2019-10-02T19:01:48-05:00",
+    "id": 24408585,
+    "tag_name": "0.1.0.12",
+    "name": "0.1.0.12: Global settings, Revit API fixes, FME token-based auth",
+    "body": "\r\n* **New:** Merges in the rest of the changes from develop related to \"genericizing\" Mission Control global settings related to offices, file paths, Citrix machines, and visibility of the settings page\r\n* **Fixed:** Small fix to SheetManager involving a change to the Revit API in 2018+ that wasn't changed via C# config switches\r\n* **Fixed:** Change \"Collaboration for Revit\" to \"BIM 360 Design\" in Add-In Manager\r\n* **Fixed:** Fix #191 \"View from Rooms\" tool for Revit 2018+ \r\n* **Improved:** Set minimum sizing for Addin Manager window (#160)\r\n* **Imrpoved:** Implement token-based auth for FME REST API (closes #172)\r\n",
+    "prerelease": true,
+    "published_at": "2020-03-10T20:40:04-05:00",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 15264092,
+        "id": 18620548,
         "name": "2017.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/15264092"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/18620548"
       },
       {
-        "id": 15264093,
+        "id": 18620549,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/15264093"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/18620549"
       },
       {
-        "id": 15264090,
+        "id": 18620550,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/15264090"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/18620550"
       },
       {
-        "id": 15264091,
+        "id": 18620551,
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/15264091"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/18620551"
       }
     ]
   }
