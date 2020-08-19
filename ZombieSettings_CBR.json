@@ -1,0 +1,85 @@
+{
+  "ShouldSerialize": false,
+  "Address": "https://github.com/HOKGroup/CBR-Revit-Addins",
+  "Frequency": "h2",
+  "SourceAssets": [],
+  "DestinationAssets": [
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2017",
+      "Assets": [
+        {
+          "id": 24098169,
+          "name": "2017.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098169"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
+      "Assets": [
+        {
+          "id": 24098163,
+          "name": "2018.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098163"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
+      "Assets": [
+        {
+          "id": 24098166,
+          "name": "2019.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098166"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
+      "Assets": [
+        {
+          "id": 24098167,
+          "name": "2020.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098167"
+        }
+      ]
+    }
+  ],
+  "LatestRelease": {
+    "id": 29889223,
+    "tag_name": "0.1.0.12",
+    "name": "0.1.0.12: Global settings, Revit API fixes, FME token-based auth",
+    "body": "\r\n* **New:** Merges in the rest of the changes from develop related to \"genericizing\" Mission Control global settings related to offices, file paths, Citrix machines, and visibility of the settings page\r\n* **Fixed:** Small fix to SheetManager involving a change to the Revit API in 2018+ that wasn't changed via C# config switches\r\n* **Fixed:** Change \"Collaboration for Revit\" to \"BIM 360 Design\" in Add-In Manager\r\n* **Fixed:** Fix #191 \"View from Rooms\" tool for Revit 2018+ \r\n* **Improved:** Set minimum sizing for Addin Manager window (#160)\r\n* **Improved:** Implement token-based auth for FME REST API (closes #172)\r\n",
+    "prerelease": true,
+    "published_at": "2020-08-19T16:30:57-05:00",
+    "author": {
+      "login": "djsiroky"
+    },
+    "assets": [
+      {
+        "id": 24098169,
+        "name": "2017.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098169"
+      },
+      {
+        "id": 24098163,
+        "name": "2018.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098163"
+      },
+      {
+        "id": 24098166,
+        "name": "2019.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098166"
+      },
+      {
+        "id": 24098167,
+        "name": "2020.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/24098167"
+      }
+    ]
+  }
+}
