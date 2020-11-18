@@ -38,17 +38,6 @@
       ]
     },
     {
-      "LocationType": "Trash",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2017",
-      "Assets": [
-        {
-          "id": 15264092,
-          "name": "2017.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/15264092"
-        }
-      ]
-    },
-    {
       "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
