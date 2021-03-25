@@ -54,7 +54,7 @@
     "tag_name": "0.1.0.15",
     "name": "Model Reporting: Implement more robust reporting of IPv4 address",
     "body": "__Fixed:__ ModelReporting: Always use IPv4 IP address from non-virtual adapters (except GlobalProtect VPN client)", 
-    "prerelease": true,
+    "prerelease": false,
     "published_at": "2021-03-25T22:15:33Z",
     "author": {
       "login": "djsiroky"
