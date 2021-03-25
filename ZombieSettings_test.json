@@ -9,9 +9,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
       "Assets": [
         {
-          "id": 33339682,
+          "id": 34003827,
           "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339682"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003827"
         }
       ]
     },
@@ -20,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 33339683,
+          "id": 34003828,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339683"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003828"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
       "Assets": [
         {
-          "id": 33339684,
+          "id": 34003829,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339684"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003829"
         }
       ]
     },
@@ -42,43 +42,43 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 33339686,
+          "id": 34003826,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339686"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003826"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 39677456,
-    "tag_name": "0.1.0.14",
-    "name": "Model Reporting: HK + LON VPN Fix",
-    "body": "__Fixed:__  Reverses the cases for re-assigning LON and HK traffic with a specific IP range to VPN (whereas previously it was assigning VPN traffic to LON/HK).",
-    "prerelease": false,
-    "published_at": "2021-03-11T19:40:05Z",
+    "id": 40445816,
+    "tag_name": "0.1.0.15",
+    "name": "Model Reporting: Implement more robust reporting of IPv4 address",
+    "body": "__Fixed:__ ModelReporting: Always use IPv4 IP address from non-virtual adapters (except GlobalProtect VPN client)", 
+    "prerelease": true,
+    "published_at": "2021-03-25T22:15:33Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 33339682,
+        "id": 34003827,
         "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339682"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003827"
       },
       {
-        "id": 33339683,
+        "id": 34003828,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339683"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003828"
       },
       {
-        "id": 33339684,
+        "id": 34003829,
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339684"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003829"
       },
       {
-        "id": 33339686,
+        "id": 34003826,
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/33339686"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/34003826"
       }
     ]
   }
