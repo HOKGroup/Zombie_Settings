@@ -65,7 +65,7 @@
     "tag_name": "0.1.0.16",
     "name": "Revit 2022 + Desktop Connector Launcher add-in",
     "body": "__New:__ Revit 2022 Support\n__New:__ Adds Desktop Connector Launcher add-in for use with Citrix machines",
-    "prerelease": true,
+    "prerelease": false,
     "published_at": "2021-05-28T15:12:34Z",
     "author": {
       "login": "djsiroky"
