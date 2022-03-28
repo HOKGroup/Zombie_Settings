@@ -6,23 +6,12 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
-      "Assets": [
-        {
-          "id": 37711702,
-          "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711702"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 37711704,
+          "id": 60866106,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711704"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866106"
         }
       ]
     },
@@ -31,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
       "Assets": [
         {
-          "id": 37711706,
+          "id": 60866116,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711706"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866116"
         }
       ]
     },
@@ -42,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 37711712,
+          "id": 60866121,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711712"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866121"
         }
       ]
     },
@@ -53,48 +42,43 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
       "Assets": [
         {
-          "id": 37711716,
+          "id": 60866123,
           "name": "2022.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711716"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866123"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 43772462,
-    "tag_name": "0.1.0.16",
-    "name": "Revit 2022 + Desktop Connector Launcher add-in",
-    "body": "__New:__ Revit 2022 Support\n__New:__ Adds Desktop Connector Launcher add-in for use with Citrix machines",
+    "id": 45388427,
+    "tag_name": "0.1.0.17",
+    "name": "0.1.0.17: BIM360 -> Cloud Model, ModelReporting fixes",
+    "body": "**Fix:** ModelReporting: Remove UserLocation filter from logic when checking for VPN IP addresses\r\n**Fix:** Resolve conflicting versions of RestSharp [d4bfa1c](https://github.com/HOKGroup/HOK-Revit-Addins/commit/d4bfa1c826118269fa353a195ebbb848d0e06d29)\r\n**New**: Support for alternate Cloud protocols (Autodesk Docs://) beyond BIM 360://\r\nDeprecate 2018 versions",
     "prerelease": false,
-    "published_at": "2021-05-28T15:12:34Z",
+    "published_at": "2022-03-28T21:13:56Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 37711702,
-        "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711702"
-      },
-      {
-        "id": 37711704,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711704"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866106",
+				"id": 60866106
       },
       {
-        "id": 37711706,
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711706"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866116",
+				"id": 60866116
       },
       {
-        "id": 37711712,
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711712"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866121",
+				"id": 60866121
       },
       {
-        "id": 37711716,
         "name": "2022.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/37711716"
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866123",
+				"id": 60866123
       }
     ]
   }
