@@ -9,9 +9,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 60866106,
+          "id": 64706147,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866106"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706147"
         }
       ]
     },
@@ -20,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
       "Assets": [
         {
-          "id": 60866116,
+          "id": 64706132,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866116"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706132"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 60866121,
+          "id": 64706141,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866121"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706141"
         }
       ]
     },
@@ -42,43 +42,43 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
       "Assets": [
         {
-          "id": 60866123,
+          "id": 64706142,
           "name": "2022.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866123"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706142"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 45388427,
-    "tag_name": "0.1.0.17",
-    "name": "0.1.0.17: BIM360 -> Cloud Model, ModelReporting fixes",
-    "body": "**Fix:** ModelReporting: Remove UserLocation filter from logic when checking for VPN IP addresses\r\n**Fix:** Resolve conflicting versions of RestSharp [d4bfa1c](https://github.com/HOKGroup/HOK-Revit-Addins/commit/d4bfa1c826118269fa353a195ebbb848d0e06d29)\r\n**New**: Support for alternate Cloud protocols (Autodesk Docs://) beyond BIM 360://\r\nDeprecate 2018 versions",
+    "id": 66262643,
+    "tag_name": "0.1.0.18",
+		"name": "0.1.0.18: New Code Signing Certificate",
+    "body": "New: Update code signing certificate",
     "prerelease": false,
-    "published_at": "2022-03-28T21:13:56Z",
+    "published_at": "2022-05-06T20:00:43Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866106",
-				"id": 60866106
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706147",
+				"id": 64706147
       },
       {
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866116",
-				"id": 60866116
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706132",
+				"id": 64706132
       },
       {
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866121",
-				"id": 60866121
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706141",
+				"id": 64706141
       },
       {
         "name": "2022.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/60866123",
-				"id": 60866123
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/64706142",
+				"id": 64706142
       }
     ]
   }
