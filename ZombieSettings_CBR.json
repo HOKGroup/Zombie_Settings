@@ -6,23 +6,12 @@
   "DestinationAssets": [
     {
       "LocationType": "Folder",
-      "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2018",
-      "Assets": [
-        {
-          "id": 28961359,
-          "name": "2018.zip",
-          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961359"
-        }
-      ]
-    },
-    {
-      "LocationType": "Folder",
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 28961360,
+          "id": 92739330,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961360"
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739330"
         }
       ]
     },
@@ -31,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
       "Assets": [
         {
-          "id": 28961361,
+          "id": 92739345,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961361"
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739345"
         }
       ]
     },
@@ -42,43 +31,70 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 28961358,
+          "id": 92739349,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961358"
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739349"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
+      "Assets": [
+        {
+          "id": 92739354,
+          "name": "2022.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739354"
+        }
+      ]
+    },
+    {
+      "LocationType": "Folder",
+      "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2023",
+      "Assets": [
+        {
+          "id": 92739355,
+          "name": "2023.zip",
+          "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739355"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 34604050,
-    "tag_name": "0.1.0.13",
-    "name": "0.1.0.13: Revit 2021, repo cleanup, minor bugfixes",
-    "body": "__New:__ Revit 2021 Support\r\n__Fixed:__ Model reporting: Change site to LON if on London VPN IP range (cea2c2a)\r\n__Improved:__ Remove unused projects\r\n__Improved:__ Remove configurations + references to 2015 builds\r\n__Improved__: ViewDepth: Better error handling when not in proper view type (81a5004)\r\n",
-    "prerelease": true,
-    "published_at": "2020-11-30T16:19:29-06:00",
+    "id": 89929717,
+    "tag_name": "0.1.0.19",
+		"name": "0.1.0.19",
+    "body": "**New**: Revit 2023 Version of add-ins\r\n**Fix:** HOK.ParameterTools: Fix ForgeTypeId switch case + package issue\r\n**Fix:** Bump Newtonsoft.Json to 13.0.1\r\n**Fix:** Bump RestSharp from 106.1.0 to 106.12.0\r\n**Improved**: HOK.CeilingHeight: Handle model with no rooms, fix incorrect dialog text\r\n**Improved**: Update HOK Navigator links\r\n",
+    "prerelease": false,
+    "published_at": "2023-01-23T15:51:50Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
-        "id": 28961359,
-        "name": "2018.zip",
-        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961359"
-      },
-      {
-        "id": 28961360,
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961360"
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739330",
+				"id": 92739330
       },
       {
-        "id": 28961361,
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961361"
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739345",
+				"id": 92739345
       },
       {
-        "id": 28961358,
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/28961358"
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739349",
+				"id": 92739349
+      },
+      {
+        "name": "2022.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739354",
+				"id": 92739354
+      },
+      {
+        "name": "2023.zip",
+        "url": "https://api.github.com/repos/HOKGroup/CBR-Revit-Addins/releases/assets/92739355",
+				"id": 92739355
       }
     ]
   }
