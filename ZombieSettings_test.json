@@ -1,7 +1,7 @@
 {
   "ShouldSerialize": false,
   "Address": "https://github.com/HOKGroup/HOK-Revit-Addins",
-  "Frequency": "m5",
+  "Frequency": "h2",
   "SourceAssets": [],
   "DestinationAssets": [
     {
