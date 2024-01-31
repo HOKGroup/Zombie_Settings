@@ -9,9 +9,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2019",
       "Assets": [
         {
-          "id": 129223709,
+          "id": 149010697,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223709"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010697"
         }
       ]
     },
@@ -20,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\REVIT\\Addins\\2020",
       "Assets": [
         {
-          "id": 129223748,
+          "id": 149010700,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223748"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010700"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 129223752,
+          "id": 149010703,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223752"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010703"
         }
       ]
     },
@@ -42,9 +42,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
       "Assets": [
         {
-          "id": 129223756,
+          "id": 149010706,
           "name": "2022.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223756"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010706"
         }
       ]
     },
@@ -53,9 +53,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2023",
       "Assets": [
         {
-          "id": 129223768,
+          "id": 149010707,
           "name": "2023.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223768"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010707"
         }
       ]
     },
@@ -64,53 +64,53 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2024",
       "Assets": [
         {
-          "id": 129223771,
+          "id": 149010716,
           "name": "2024.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223771"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010716"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 123923258,
-    "tag_name": "0.1.0.20",
-    "name": "0.1.0.20: Revit 2024",
-    "body": "## What's Changed\r\n* **Feature**  Add support for Revit 2024\r\n* **Feature**  Create \"auto-upgrade\" script to automate portions of adding support for a new Revit version\r\n* **Change** ElementId int -> long changes in Revit 2024 API\r\n* **Fix** (Room to Mass): Area names not including trailing numbers\r\n* **Feature** (RoomsToMass): Allow masses at centerline of walls, area name fix\r\n\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.19...0.1.0.20",
-    "prerelease": true,
-    "published_at": "2023-10-05T19:27:15Z",
+    "id": 139393703,
+    "tag_name": "0.1.0.21",
+    "name": "0.1.0.21: Add BCF Express",
+    "body": "## What's Changed\r\n* Add BCFExpress to Add-in Manager by @djsiroky in https://github.com/HOKGroup/HOK-Revit-Addins/pull/221\r\n\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.20...0.1.0.21",
+    "prerelease": false,
+    "published_at": "2024-01-31T20:37:33Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223709",
-				"id": 129223709
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010697",
+				"id": 149010697
       },
       {
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223748",
-				"id": 129223748
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010700",
+				"id": 149010700
       },
       {
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223752",
-				"id": 129223752
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010703",
+				"id": 149010703
       },
       {
         "name": "2022.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223756",
-				"id": 129223756
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010706",
+				"id": 149010706
       },
       {
         "name": "2023.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223768",
-				"id": 129223768
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010707",
+				"id": 149010707
       },
       {
         "name": "2024.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/129223771",
-				"id": 129223771
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/149010716",
+				"id": 149010716
       }
     ]
   }
