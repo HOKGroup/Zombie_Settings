@@ -9,9 +9,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
       "Assets": [
         {
-          "id": 241009725,
+          "id": 241683966,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009725"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683966"
         }
       ]
     },
@@ -20,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2020",
       "Assets": [
         {
-          "id": 241009735,
+          "id": 241683968,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009735"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683968"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 241009743,
+          "id": 241683971,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009743"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683971"
         }
       ]
     },
@@ -42,9 +42,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
       "Assets": [
         {
-          "id": 241009749,
+          "id": 241683974,
           "name": "2022.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009749"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683974"
         }
       ]
     },
@@ -53,9 +53,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2023",
       "Assets": [
         {
-          "id": 241009760,
+          "id": 241683979,
           "name": "2023.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009760"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683979"
         }
       ]
     },
@@ -64,9 +64,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2024",
       "Assets": [
         {
-          "id": 241009768,
+          "id": 241683981,
           "name": "2024.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009768"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683981"
         }
       ]
     },
@@ -75,58 +75,58 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2025",
       "Assets": [
         {
-          "id": 241009775,
+          "id": 241683982,
           "name": "2025.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009775"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683982"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 208246053,
-    "tag_name": "0.1.0.26",
-    "name": "0.1.0.26: Color-Based Issue Finder",
-    "body": "## What's Changed\r\n* Adding Color Based Issue Finder Add-in by @MohsenHOK64 in https://github.com/HOKGroup/HOK-Revit-Addins/pull/230\r\n\r\n## New Contributors\r\n* @MohsenHOK64 made their first contribution in https://github.com/HOKGroup/HOK-Revit-Addins/pull/230\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.25...0.1.0.26",
+    "id": 209071890,
+    "tag_name": "0.1.0.27",
+    "name": "0.1.0.27",
+    "body": "## What's Changed\r\n* fix: Remove unused Communicator logic, handle errors in updated setup by @djsiroky in https://github.com/HOKGroup/HOK-Revit-Addins/pull/231\r\n\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.26...0.1.0.27",
     "prerelease": false,
-    "published_at": "2025-03-26T16:52:03Z",
+    "published_at": "2025-03-28T21:24:32Z",
     "author": {
       "login": "djsiroky"
     },
     "assets": [
       {
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009725",
-        "id": 241009725
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683966",
+        "id": 241683966
       },
       {
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009735",
-        "id": 241009735
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683968",
+        "id": 241683968
       },
       {
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009743",
-        "id": 241009743
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683971",
+        "id": 241683971
       },
       {
         "name": "2022.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009749",
-        "id": 241009749
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683974",
+        "id": 241683974
       },
       {
         "name": "2023.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009760",
-        "id": 241009760
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683979",
+        "id": 241683979
       },
       {
         "name": "2024.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009768",
-        "id": 241009768
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683981",
+        "id": 241683981
       },
       {
         "name": "2025.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241009775",
-        "id": 241009775
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/241683982",
+        "id": 241683982
       }
     ]
   }
