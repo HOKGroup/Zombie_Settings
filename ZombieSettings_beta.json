@@ -9,9 +9,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2019",
       "Assets": [
         {
-          "id": 286532103,
+          "id": 300246343,
           "name": "2019.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532103"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246343"
         }
       ]
     },
@@ -20,9 +20,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2020",
       "Assets": [
         {
-          "id": 286532108,
+          "id": 300246347,
           "name": "2020.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532108"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246347"
         }
       ]
     },
@@ -31,9 +31,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2021",
       "Assets": [
         {
-          "id": 286532109,
+          "id": 300246352,
           "name": "2021.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532109"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246352"
         }
       ]
     },
@@ -42,9 +42,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2022",
       "Assets": [
         {
-          "id": 286532111,
+          "id": 300246355,
           "name": "2022.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532111"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246355"
         }
       ]
     },
@@ -53,9 +53,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2023",
       "Assets": [
         {
-          "id": 286532113,
+          "id": 300246360,
           "name": "2023.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532113"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246360"
         }
       ]
     },
@@ -64,9 +64,9 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2024",
       "Assets": [
         {
-          "id": 286532116,
+          "id": 300246364,
           "name": "2024.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532116"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246364"
         }
       ]
     },
@@ -75,58 +75,58 @@
       "DirectoryPath": "C:\\ProgramData\\Autodesk\\Revit\\Addins\\2025",
       "Assets": [
         {
-          "id": 286532119,
+          "id": 300246370,
           "name": "2025.zip",
-          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532119"
+          "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246370"
         }
       ]
     }
   ],
   "LatestRelease": {
-    "id": 242713095,
-    "tag_name": "0.1.0.30",
-    "name": "0.1.0.30",
-    "body": "## What's Changed\r\n* Hotfix for issue from Greg by @MohsenHOK64 in https://github.com/HOKGroup/HOK-Revit-Addins/pull/236\r\n* Sheet Manager Add-in added to Revit 2025 by @MohsenHOK64 in https://github.com/HOKGroup/HOK-Revit-Addins/pull/235\r\n\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.29...0.1.0.30",
+    "id": 252103416,
+    "tag_name": "0.1.0.31",
+    "name": "0.1.0.31",
+    "body": "## What\u0027s Changed\r\n* Bump version to 0.1.0.31 by @MohsenHOK64 in https://github.com/HOKGroup/HOK-Revit-Addins/pull/238\r\n\r\n\r\n**Full Changelog**: https://github.com/HOKGroup/HOK-Revit-Addins/compare/0.1.0.30...0.1.0.31",
     "prerelease": false,
-    "published_at": "2025-08-26T21:55:28Z",
+    "published_at": "2025-10-03T20:26:31Z",
     "author": {
-      "login": "djsiroky"
+      "login": "MohsenHOK64"
     },
     "assets": [
       {
         "name": "2019.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532103",
-        "id": 286532103
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246343",
+        "id": 300246343
       },
       {
         "name": "2020.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532108",
-        "id": 286532108
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246347",
+        "id": 300246347
       },
       {
         "name": "2021.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532109",
-        "id": 286532109
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246352",
+        "id": 300246352
       },
       {
         "name": "2022.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532111",
-        "id": 286532111
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246355",
+        "id": 300246355
       },
       {
         "name": "2023.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532113",
-        "id": 286532113
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246360",
+        "id": 300246360
       },
       {
         "name": "2024.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532116",
-        "id": 286532116
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246364",
+        "id": 300246364
       },
       {
         "name": "2025.zip",
-        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/286532119",
-        "id": 286532119
+        "url": "https://api.github.com/repos/HOKGroup/HOK-Revit-Addins/releases/assets/300246370",
+        "id": 300246370
       }
     ]
   }
